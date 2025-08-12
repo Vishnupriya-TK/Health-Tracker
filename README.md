@@ -31,7 +31,7 @@ Helps you stay on top of your daily health goals in a simple, interactive interf
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/health-tracker.git
+git clone https://github.com/Vishnupriya-TK/Health-Tracker.git
 cd health-tracker
 ```
 
